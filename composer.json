@@ -1,0 +1,21 @@
+{
+    "name": "eng.mohammad-asaad/problem-solve",
+    "description": "problem solve",
+    "require-dev": {
+        "phpunit/phpunit": "^11.4"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "ProblemSolve\\App\\": "src/",
+            "ProblemSolve\\Tests\\": "tests/"
+        }
+    },
+    "authors": [
+        {
+            "name": "moassaad",
+            "email": "mohammadasaadgo@gmail.com"
+        }
+    ],
+    "require": {}
+}
